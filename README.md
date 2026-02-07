@@ -9,7 +9,7 @@
 
 🚀 About Me
 
-I’m a results-driven Game Producer and Product Owner with 10+ years of experience delivering high-quality games and interactive experiences for global clients. I specialize in end-to-end game production, from idea validation and technical planning to delivery, live operations, and scaling teams.
+I’m a results-driven Game Producer and Product Owner with 11+ years of experience delivering high-quality games and interactive experiences for global clients. I specialize in end-to-end game production, from idea validation and technical planning to delivery, live operations, and scaling teams.
 
 Over the years, I’ve successfully led 30+ client projects, delivered 12,000+ billable hours, and helped studios launch games with millions of downloads.
 
