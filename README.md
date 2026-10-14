@@ -2,7 +2,7 @@
 
 Senior Unity Developer based in Lahore, Pakistan. I build and ship Unity games - mobile, PC, VR, WebGL, multiplayer - and I help studios and founders take a game from idea to launch.
 
-8+ years in Unity/C#. 30+ shipped games. 100M+ cumulative downloads. Led engineering teams of up to 12.
+11 years in game development, 8+ years in Unity/C#. 30+ shipped games. 100M+ cumulative downloads. Led engineering teams of up to 12.
 
 ## What I do
 
